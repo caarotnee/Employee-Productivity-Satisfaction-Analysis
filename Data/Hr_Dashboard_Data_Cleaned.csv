@@ -1,0 +1,201 @@
+Name,Age,Gender,Projects Completed,Productivity (%),Satisfaction Rate (%),Feedback Score,Department,Position,Joining Date,Salary,Experience Years,Productivity Group,Joining Year
+Douglas Lindsey,25,Male,11,57,25,4.7,Marketing,Analyst,2020-01-01,63596,6.298630136986302,Medium,2020
+Anthony Roberson,59,Female,19,55,76,2.8,IT,Manager,1999-01-01,112540,27.312328767123287,Medium,1999
+Thomas Miller,30,Male,8,87,10,2.4,IT,Analyst,2017-01-01,66292,9.2986301369863,High,2017
+Joshua Lewis,26,Female,1,53,4,1.4,Marketing,Intern,2022-01-01,38303,4.295890410958904,Medium,2022
+Stephanie Bailey,43,Male,14,3,9,4.5,IT,Team Lead,2005-01-01,101133,21.306849315068494,Low,2005
+Jonathan King,24,Male,5,63,33,4.2,Sales,Junior Developer,2021-01-01,48740,5.295890410958904,Medium,2021
+Kyle Figueroa,33,Female,13,41,39,2.3,Sales,Analyst,2018-01-01,73502,8.2986301369863,Low,2018
+Shannon Allen,23,Female,4,92,68,2.8,HR,Intern,2021-01-01,39670,5.295890410958904,High,2021
+Daryl Noble,30,Female,7,32,43,2.3,Marketing,Junior Developer,2019-01-01,49323,7.298630136986302,Low,2019
+Tracy Figueroa,39,Female,17,10,15,1.1,HR,Team Lead,2004-01-01,92915,22.30958904109589,Low,2004
+Eric Sanders,36,Male,11,45,67,1.2,Finance,Senior Developer,2013-01-01,80721,13.301369863013699,Low,2013
+Joshua Nelson,42,Female,19,9,31,2.5,Sales,Team Lead,2007-01-01,95072,19.306849315068494,Low,2007
+Donald Davis,25,Female,2,15,97,1.8,HR,Intern,2021-01-01,35169,5.295890410958904,Low,2021
+Ms. Emily Dawson,32,Female,14,45,20,3.1,Marketing,Analyst,2018-01-01,70271,8.2986301369863,Low,2018
+Angela Davis,29,Male,18,88,8,1.8,Sales,Senior Developer,2018-01-01,89571,8.2986301369863,High,2018
+Melissa Galvan,40,Male,17,3,53,1.8,Sales,Manager,2013-01-01,118466,13.301369863013699,Low,2013
+Erin Smith,46,Male,15,44,37,3.7,Marketing,Team Lead,2013-01-01,105893,13.301369863013699,Low,2013
+James Hernandez,41,Female,13,44,36,3.9,Marketing,Team Lead,2011-01-01,92074,15.304109589041095,Low,2011
+Amanda White,36,Male,12,22,66,2.2,IT,Team Lead,2005-01-01,107279,21.306849315068494,Low,2005
+Michael Morton DDS,23,Male,2,1,17,4.4,Sales,Intern,2021-01-01,37855,5.295890410958904,Low,2021
+Michelle Moreno,25,Male,10,29,73,2.0,Finance,Junior Developer,2019-01-01,52122,7.298630136986302,Low,2019
+Shannon Wilson,26,Female,4,46,66,2.4,Sales,Junior Developer,2018-01-01,50233,8.2986301369863,Low,2018
+Chad Zamora,27,Female,10,9,80,3.8,Finance,Junior Developer,2020-01-01,51316,6.298630136986302,Low,2020
+Stephanie Rivera,25,Female,3,76,26,1.2,Marketing,Junior Developer,2021-01-01,56946,5.295890410958904,Medium,2021
+Tracy Briggs,40,Male,22,18,68,4.7,IT,Manager,2012-01-01,100795,14.304109589041095,Low,2012
+Kimberly Cooper,27,Female,9,26,13,1.3,Finance,Junior Developer,2021-01-01,46910,5.295890410958904,Low,2021
+Heather Mueller,45,Female,11,0,52,2.8,Finance,Senior Developer,2008-01-01,87114,18.306849315068494,Low,2008
+Susan Johnson,35,Male,17,26,81,3.9,Finance,Manager,2011-01-01,119895,15.304109589041095,Low,2011
+Stephen Watson,33,Male,17,84,69,1.2,Sales,Senior Developer,2007-01-01,90885,19.306849315068494,High,2007
+Amanda Brown,26,Female,7,86,51,4.2,IT,Junior Developer,2018-01-01,47188,8.2986301369863,High,2018
+Michelle Perez,29,Male,5,93,94,4.9,Marketing,Junior Developer,2018-01-01,57478,8.2986301369863,High,2018
+Kim Larson,25,Female,3,15,99,2.8,Marketing,Junior Developer,2019-01-01,47322,7.298630136986302,Low,2019
+Emily Palmer,26,Male,10,95,100,1.5,IT,Junior Developer,2021-01-01,59502,5.295890410958904,High,2021
+Steven Anderson,26,Female,3,0,35,1.3,Marketing,Intern,2021-01-01,30509,5.295890410958904,Low,2021
+Dennis Nash,34,Female,13,37,37,1.4,Sales,Team Lead,2006-01-01,93896,20.306849315068494,Low,2006
+Robin Hurst,34,Male,9,47,56,4.1,Marketing,Analyst,2019-01-01,71558,7.298630136986302,Low,2019
+Samantha Williams,33,Male,14,88,47,2.7,IT,Senior Developer,2011-01-01,87041,15.304109589041095,High,2011
+Jesse Solis,58,Female,19,3,72,4.7,IT,Manager,2006-01-01,108122,20.306849315068494,Low,2006
+Carlos Bush,42,Female,23,77,80,2.8,Sales,Manager,2001-01-01,101041,25.30958904109589,Medium,2001
+Vicki Kim,44,Female,11,29,17,1.3,IT,Senior Developer,2014-01-01,90310,12.301369863013699,Low,2014
+Karen Harmon,39,Female,15,18,20,2.7,Sales,Team Lead,2005-01-01,98912,21.306849315068494,Low,2005
+Alexandra Wilson,25,Male,11,23,15,4.0,Finance,Analyst,2016-01-01,64328,10.301369863013699,Low,2016
+Stephanie Lawson,44,Female,15,58,89,4.3,Sales,Team Lead,2004-01-01,102592,22.30958904109589,Medium,2004
+Walter Barker,28,Male,5,14,15,1.2,HR,Analyst,2020-01-01,61891,6.298630136986302,Low,2020
+Mallory Lawrence,25,Male,5,61,48,1.7,Finance,Analyst,2016-01-01,65633,10.301369863013699,Medium,2016
+Jonathan Stanley,29,Male,5,44,51,3.0,Finance,Junior Developer,2019-01-01,49778,7.298630136986302,Low,2019
+Jamie Wells,25,Male,5,90,75,1.5,Sales,Junior Developer,2018-01-01,51123,8.2986301369863,High,2018
+James Berg,31,Female,14,33,59,4.5,Marketing,Analyst,2019-01-01,70095,7.298630136986302,Low,2019
+Elizabeth Bowen,33,Female,7,16,17,4.7,Sales,Analyst,2019-01-01,73157,7.298630136986302,Low,2019
+Cynthia Ochoa,40,Female,16,3,71,2.3,HR,Senior Developer,2018-01-01,90439,8.2986301369863,Low,2018
+Kristine Smith,23,Male,3,26,85,2.7,IT,Intern,2020-01-01,33105,6.298630136986302,Low,2020
+Walter Jones,42,Male,11,46,38,3.2,Finance,Team Lead,2013-01-01,107751,13.301369863013699,Low,2013
+Brian Anderson,26,Male,2,42,45,2.1,Sales,Intern,2022-01-01,38878,4.295890410958904,Low,2022
+Alexis Smith DDS,44,Male,16,60,80,3.2,HR,Senior Developer,2007-01-01,80976,19.306849315068494,Medium,2007
+Jessica Robinson,45,Male,14,37,60,1.8,Finance,Team Lead,2005-01-01,101100,21.306849315068494,Low,2005
+Harold Nguyen,38,Male,22,37,95,2.2,Finance,Manager,2010-01-01,116888,16.304109589041097,Low,2010
+Marilyn Williams,25,Male,8,70,53,2.8,Sales,Junior Developer,2019-01-01,54047,7.298630136986302,Medium,2019
+Victoria Townsend,30,Male,13,81,27,3.4,HR,Senior Developer,2004-01-01,80228,22.30958904109589,High,2004
+David Odom,47,Female,20,41,61,3.1,HR,Team Lead,2009-01-01,95289,17.304109589041097,Low,2009
+Melissa Nguyen,23,Female,8,23,62,2.0,Sales,Junior Developer,2021-01-01,59877,5.295890410958904,Low,2021
+Rachel Harris,30,Male,8,75,88,1.9,IT,Senior Developer,2003-01-01,88117,23.30958904109589,Medium,2003
+Lori Garcia,35,Male,16,10,64,1.5,Finance,Manager,1999-01-01,100719,27.312328767123287,Low,1999
+Dr. Corey Orr,28,Female,5,13,40,4.1,IT,Analyst,2020-01-01,70439,6.298630136986302,Low,2020
+Janet Campbell,58,Female,20,68,63,1.4,Finance,Manager,2010-01-01,108449,16.304109589041097,Medium,2010
+Glen Johnson,42,Male,12,74,83,3.9,HR,Team Lead,2007-01-01,100865,19.306849315068494,Medium,2007
+Brandon Vega,30,Male,6,39,7,2.0,Sales,Junior Developer,2020-01-01,47255,6.298630136986302,Low,2020
+Maria Short,24,Female,4,20,56,2.1,Sales,Intern,2021-01-01,35636,5.295890410958904,Low,2021
+Alejandro Rice,41,Female,16,48,38,3.9,Sales,Senior Developer,2015-01-01,81627,11.301369863013699,Low,2015
+Debra Chen,41,Male,17,18,18,3.6,Sales,Team Lead,2004-01-01,108390,22.30958904109589,Low,2004
+Dana Taylor,25,Female,2,16,95,4.0,Sales,Intern,2022-01-01,36842,4.295890410958904,Low,2022
+Jordan Morales,36,Male,16,28,63,3.1,Marketing,Senior Developer,2017-01-01,92954,9.2986301369863,Low,2017
+Gregory Wong,32,Female,16,40,6,4.4,Marketing,Team Lead,2007-01-01,92217,19.306849315068494,Low,2007
+Thomas Baxter,25,Male,9,65,79,1.5,Finance,Junior Developer,2019-01-01,49120,7.298630136986302,Medium,2019
+Amy Garcia,34,Male,10,31,27,3.6,Marketing,Analyst,2017-01-01,69347,9.2986301369863,Low,2017
+Bradley Paul,26,Female,5,30,3,1.5,HR,Junior Developer,2019-01-01,46707,7.298630136986302,Low,2019
+John Moore,36,Male,20,96,45,3.9,IT,Team Lead,2005-01-01,107062,21.306849315068494,High,2005
+Allison Smith,22,Male,0,23,60,2.4,HR,Intern,2022-01-01,31230,4.295890410958904,Low,2022
+Melissa Dunn,29,Male,9,37,50,3.7,Finance,Senior Developer,2018-01-01,94110,8.2986301369863,Low,2018
+Daniel Mata,51,Male,25,47,1,3.8,IT,Manager,2007-01-01,119208,19.306849315068494,Low,2007
+Paula Gamble,30,Female,9,53,67,3.6,Marketing,Senior Developer,2011-01-01,82101,15.304109589041095,Medium,2011
+Sarah Fernandez,57,Female,23,84,8,1.9,HR,Manager,2006-01-01,115901,20.306849315068494,High,2006
+Kathryn Scott,42,Female,8,5,87,4.3,Sales,Senior Developer,2009-01-01,80567,17.304109589041097,Low,2009
+Steven Schroeder,28,Male,15,16,10,2.0,IT,Analyst,2019-01-01,68523,7.298630136986302,Low,2019
+Calvin Mullen,49,Female,24,76,87,3.1,Marketing,Manager,1998-01-01,107320,28.312328767123287,Medium,1998
+Mark Wilson,57,Female,23,2,94,3.7,Sales,Manager,1999-01-01,111381,27.312328767123287,Low,1999
+Debbie Torres,59,Female,20,50,85,1.9,Finance,Manager,2014-01-01,103172,12.301369863013699,Medium,2014
+Carrie Lowe DVM,23,Female,5,9,50,3.5,HR,Intern,2020-01-01,39138,6.298630136986302,Low,2020
+Jerry Mccoy,44,Male,17,89,0,2.1,IT,Senior Developer,2003-01-01,93702,23.30958904109589,High,2003
+Ashley Bradshaw,29,Male,6,9,46,1.7,Finance,Analyst,2018-01-01,71589,8.2986301369863,Low,2018
+Molly Jones,28,Female,17,16,5,4.2,Marketing,Senior Developer,2007-01-01,83554,19.306849315068494,Low,2007
+Daniel Young,26,Female,1,53,14,3.2,Sales,Intern,2020-01-01,32903,6.298630136986302,Medium,2020
+Sarah Levy,27,Male,5,38,79,2.3,HR,Analyst,2020-01-01,71365,6.298630136986302,Low,2020
+Susan Foley,24,Male,0,70,0,3.3,Finance,Intern,2020-01-01,33770,6.298630136986302,Medium,2020
+Gail Taylor,39,Male,9,53,34,1.1,HR,Senior Developer,2006-01-01,86537,20.306849315068494,Medium,2006
+Colleen Jacobson,30,Female,9,94,81,1.5,IT,Analyst,2018-01-01,63299,8.2986301369863,High,2018
+Patricia Campos,27,Female,3,18,89,2.6,HR,Junior Developer,2018-01-01,54974,8.2986301369863,Low,2018
+Amy Carr,51,Female,24,75,37,4.9,Finance,Manager,2008-01-01,114384,18.306849315068494,Medium,2008
+Renee Jones,50,Female,16,54,93,3.0,IT,Team Lead,2007-01-01,101416,19.306849315068494,Medium,2007
+Cheryl Spencer,29,Male,7,38,29,1.3,Finance,Analyst,2018-01-01,62588,8.2986301369863,Low,2018
+Mary Barber,39,Female,24,81,18,4.1,Finance,Manager,2016-01-01,108820,10.301369863013699,High,2016
+Christy Snyder,30,Male,19,45,96,4.1,Finance,Team Lead,2005-01-01,101420,21.306849315068494,Low,2005
+Tracy Morris,30,Male,10,10,73,4.1,Marketing,Junior Developer,2018-01-01,53966,8.2986301369863,Low,2018
+Brittany Jackson,36,Female,13,31,36,3.3,Marketing,Team Lead,2014-01-01,96579,12.301369863013699,Low,2014
+Ronald Flores,54,Male,19,56,24,3.8,Sales,Manager,2004-01-01,107080,22.30958904109589,Medium,2004
+William Taylor,31,Male,9,80,13,1.9,Sales,Analyst,2018-01-01,67630,8.2986301369863,Medium,2018
+Jeffrey Hodges,38,Female,10,47,55,3.9,Sales,Senior Developer,2017-01-01,93569,9.2986301369863,Low,2017
+Michael Raymond,45,Female,12,81,58,4.3,IT,Team Lead,2013-01-01,100280,13.301369863013699,High,2013
+Patrick Green,44,Female,24,67,91,4.0,Marketing,Manager,2013-01-01,104209,13.301369863013699,Medium,2013
+Jennifer Gilbert,25,Male,1,7,42,2.4,Sales,Intern,2021-01-01,34535,5.295890410958904,Low,2021
+Justin Williams,25,Female,4,48,49,3.4,Sales,Junior Developer,2018-01-01,54193,8.2986301369863,Low,2018
+Kevin Welch,50,Male,17,52,21,3.5,Finance,Manager,2000-01-01,100014,26.312328767123287,Medium,2000
+Jackie Holden,27,Female,5,1,42,4.6,Finance,Junior Developer,2020-01-01,46364,6.298630136986302,Low,2020
+Brian Thomas,30,Male,9,53,53,1.4,Finance,Analyst,2019-01-01,70818,7.298630136986302,Medium,2019
+Danielle Rodriguez,24,Male,3,93,82,4.3,Sales,Intern,2021-01-01,35375,5.295890410958904,High,2021
+Kathleen May,55,Female,19,41,87,3.1,Sales,Manager,2010-01-01,110104,16.304109589041097,Low,2010
+Robert Ward,40,Male,10,56,55,2.4,HR,Senior Developer,2018-01-01,94290,8.2986301369863,Medium,2018
+Samantha Baldwin,29,Male,6,26,18,2.8,Marketing,Junior Developer,2021-01-01,56573,5.295890410958904,Low,2021
+Michael Moore,48,Female,13,47,57,1.1,HR,Team Lead,2005-01-01,100592,21.306849315068494,Low,2005
+Mr. Brandon Weber,31,Female,6,37,90,1.9,IT,Analyst,2017-01-01,60575,9.2986301369863,Low,2017
+Adrian Walker,57,Female,17,60,18,3.6,Finance,Manager,2002-01-01,102771,24.30958904109589,Medium,2002
+Michael Rodriguez,26,Female,5,11,67,3.6,HR,Intern,2022-01-01,30231,4.295890410958904,Low,2022
+Johnathan Williams,44,Female,21,23,40,3.0,Finance,Manager,2010-01-01,109581,16.304109589041097,Low,2010
+Nicholas Johnson,26,Male,1,13,16,4.8,Marketing,Intern,2022-01-01,31878,4.295890410958904,Low,2022
+Jeffery Fields,28,Male,8,35,26,2.9,Sales,Analyst,2018-01-01,62727,8.2986301369863,Low,2018
+Dawn Martin,34,Female,17,14,23,2.3,Marketing,Senior Developer,2007-01-01,91663,19.306849315068494,Low,2007
+Jill Anderson,41,Female,8,71,56,4.4,IT,Senior Developer,2005-01-01,84510,21.306849315068494,Medium,2005
+Alicia Butler,28,Female,10,77,44,2.0,Finance,Analyst,2017-01-01,63299,9.2986301369863,Medium,2017
+Samantha Allen,27,Female,10,88,49,3.4,Marketing,Junior Developer,2019-01-01,53400,7.298630136986302,High,2019
+Geoffrey Kelley,33,Male,15,19,54,3.8,Finance,Analyst,2016-01-01,69087,10.301369863013699,Low,2016
+James Lee,33,Female,15,89,62,4.3,HR,Senior Developer,2015-01-01,85674,11.301369863013699,High,2015
+Michael Perez,26,Male,5,57,49,4.1,IT,Intern,2022-01-01,37357,4.295890410958904,Medium,2022
+John Elliott,23,Female,1,51,93,2.5,Sales,Intern,2022-01-01,31456,4.295890410958904,Medium,2022
+Stacy Wilson,49,Female,14,23,28,1.2,Finance,Team Lead,2006-01-01,103586,20.306849315068494,Low,2006
+Patrick Manning,51,Male,16,98,25,1.2,HR,Manager,2000-01-01,116473,26.312328767123287,High,2000
+Denise Singleton,26,Female,5,53,56,3.9,HR,Intern,2022-01-01,38714,4.295890410958904,Medium,2022
+Alyssa Montoya,33,Female,14,55,26,4.8,Sales,Analyst,2018-01-01,73623,8.2986301369863,Medium,2018
+Rhonda Skinner,50,Male,14,22,75,2.4,Marketing,Team Lead,2012-01-01,103407,14.304109589041095,Low,2012
+Timothy Avery,25,Male,4,31,90,2.8,IT,Intern,2021-01-01,32010,5.295890410958904,Low,2021
+Angela Carpenter,45,Female,18,58,6,3.9,HR,Manager,2013-01-01,102633,13.301369863013699,Medium,2013
+Andrew Johnson,29,Male,5,43,49,3.6,Finance,Analyst,2019-01-01,69725,7.298630136986302,Low,2019
+Jessica Tate,48,Male,17,66,4,2.0,HR,Manager,2016-01-01,115170,10.301369863013699,Medium,2016
+Matthew Martin,44,Male,18,18,29,3.7,Sales,Manager,2008-01-01,110621,18.306849315068494,Low,2008
+Timothy Johnson,49,Male,24,45,81,2.2,HR,Manager,2012-01-01,105706,14.304109589041095,Low,2012
+James Reese,35,Male,15,59,10,2.4,Marketing,Analyst,2020-01-01,64858,6.298630136986302,Medium,2020
+Katrina Williams,51,Male,15,80,23,3.2,IT,Manager,2009-01-01,107898,17.304109589041097,Medium,2009
+Jasmine Payne,31,Female,16,81,46,3.9,Finance,Team Lead,2010-01-01,104318,16.304109589041097,High,2010
+Mrs. Heidi Villa,23,Male,1,11,7,1.6,Marketing,Intern,2022-01-01,34697,4.295890410958904,Low,2022
+Patricia Collins,36,Male,10,61,95,1.1,HR,Senior Developer,2004-01-01,80513,22.30958904109589,Medium,2004
+Cesar Davis,30,Female,9,96,81,3.5,Marketing,Junior Developer,2021-01-01,45375,5.295890410958904,High,2021
+Brett Butler,24,Female,10,26,86,1.1,Finance,Junior Developer,2020-01-01,58688,6.298630136986302,Low,2020
+Cristina Garcia,35,Female,15,37,22,1.2,IT,Manager,2008-01-01,100269,18.306849315068494,Low,2008
+Joshua White,28,Female,13,0,29,1.9,HR,Analyst,2020-01-01,70460,6.298630136986302,Low,2020
+Bethany Castro,26,Male,2,89,78,3.6,HR,Intern,2020-01-01,34412,6.298630136986302,High,2020
+Mary Singh,31,Female,11,57,38,1.3,Marketing,Senior Developer,2010-01-01,81248,16.304109589041097,Medium,2010
+Scott Johnson,27,Male,4,79,78,1.2,IT,Junior Developer,2018-01-01,59268,8.2986301369863,Medium,2018
+Matthew Moran,23,Female,9,59,11,4.9,Marketing,Junior Developer,2021-01-01,55833,5.295890410958904,Medium,2021
+Susan Hill,23,Male,2,0,90,2.7,Marketing,Intern,2020-01-01,35130,6.298630136986302,Low,2020
+Sherry Werner,23,Female,5,27,65,4.6,Sales,Intern,2021-01-01,35192,5.295890410958904,Low,2021
+Jon Hays,54,Male,22,38,96,1.9,Sales,Manager,2011-01-01,117951,15.304109589041095,Low,2011
+Kelly Bryant,40,Female,18,14,36,2.7,Marketing,Manager,2005-01-01,109418,21.306849315068494,Low,2005
+Ryan Avila,39,Male,18,98,98,2.4,Sales,Senior Developer,2003-01-01,80793,23.30958904109589,High,2003
+Jenny Riley,26,Female,5,80,45,1.7,Finance,Intern,2022-01-01,34076,4.295890410958904,Medium,2022
+Elizabeth Williams,29,Male,9,38,52,2.3,Sales,Analyst,2020-01-01,73916,6.298630136986302,Low,2020
+Michael Oneal,35,Male,25,69,58,4.9,IT,Manager,2001-01-01,116928,25.30958904109589,Medium,2001
+Daniel Lopez,23,Male,5,77,6,4.0,Sales,Junior Developer,2018-01-01,47294,8.2986301369863,Medium,2018
+William Thomas,28,Female,9,19,80,2.5,IT,Senior Developer,2014-01-01,84252,12.301369863013699,Low,2014
+Anthony Barton,54,Male,20,54,89,2.6,Marketing,Manager,1999-01-01,119567,27.312328767123287,Medium,1999
+William Reed,40,Male,22,90,66,2.1,IT,Manager,2009-01-01,101837,17.304109589041097,High,2009
+Yvette Hughes,29,Female,9,96,85,3.1,Sales,Analyst,2017-01-01,72877,9.2986301369863,High,2017
+Leslie Wallace,28,Female,10,60,83,3.9,HR,Analyst,2018-01-01,66367,8.2986301369863,Medium,2018
+Alexis Hickman,47,Female,23,11,70,3.7,Marketing,Manager,2006-01-01,113716,20.306849315068494,Low,2006
+Mrs. Laura Gonzalez,25,Male,4,86,94,2.9,Marketing,Intern,2021-01-01,34601,5.295890410958904,High,2021
+Joshua Fowler,58,Male,19,63,55,1.2,Marketing,Manager,2013-01-01,119085,13.301369863013699,Medium,2013
+Shannon Gray,41,Male,13,97,74,4.7,Marketing,Team Lead,2016-01-01,97387,10.301369863013699,High,2016
+Vincent Jones,39,Male,12,29,58,2.6,IT,Senior Developer,2003-01-01,84152,23.30958904109589,Low,2003
+Cindy West,24,Male,10,69,62,2.6,Finance,Junior Developer,2019-01-01,50124,7.298630136986302,Medium,2019
+Autumn Taylor,34,Male,11,97,32,1.0,Marketing,Analyst,2019-01-01,74918,7.298630136986302,High,2019
+Patricia Ortega,48,Female,16,51,90,1.6,Sales,Manager,2009-01-01,117458,17.304109589041097,Medium,2009
+Andrew Dalton,60,Female,17,35,60,4.5,Finance,Manager,2003-01-01,116039,23.30958904109589,Low,2003
+Michael Riley,22,Female,3,80,27,3.1,HR,Intern,2020-01-01,37353,6.298630136986302,Medium,2020
+Kara Garcia,25,Male,6,2,43,3.9,Finance,Analyst,2019-01-01,71604,7.298630136986302,Low,2019
+Carrie Smith,35,Male,19,15,34,1.6,Sales,Team Lead,2008-01-01,94026,18.306849315068494,Low,2008
+Dr. Shane Lewis,28,Female,18,34,5,2.3,Sales,Senior Developer,2015-01-01,86941,11.301369863013699,Low,2015
+Russell Newton,27,Male,3,85,5,4.4,IT,Junior Developer,2020-01-01,51135,6.298630136986302,High,2020
+Robert Gonzalez,41,Female,18,5,6,4.3,Marketing,Team Lead,2018-01-01,95555,8.2986301369863,Low,2018
+Tyrone Underwood,36,Female,12,0,20,2.0,Marketing,Team Lead,2009-01-01,107062,17.304109589041097,Low,2009
+Brian Delgado,42,Female,17,32,44,1.1,Finance,Team Lead,2003-01-01,91680,23.30958904109589,Low,2003
+Manuel Sanchez,36,Female,12,50,0,4.2,HR,Team Lead,2017-01-01,97569,9.2986301369863,Medium,2017
+Joshua Chen,28,Female,8,67,37,1.7,IT,Junior Developer,2019-01-01,56570,7.298630136986302,Medium,2019
+Douglas Sweeney,25,Female,6,74,83,4.2,IT,Junior Developer,2021-01-01,58237,5.295890410958904,Medium,2021
+Joseph Friedman,35,Male,18,90,0,3.7,Finance,Team Lead,2013-01-01,105640,13.301369863013699,High,2013
+Steven Hernandez,43,Male,11,50,17,1.7,Sales,Senior Developer,2013-01-01,86286,13.301369863013699,Medium,2013
+Shannon Ingram,35,Male,7,56,8,1.3,Sales,Analyst,2019-01-01,60501,7.298630136986302,Medium,2019
+Drew Rojas,39,Female,16,13,100,4.7,IT,Manager,2016-01-01,107814,10.301369863013699,Low,2016
+Michael Baker,26,Female,2,95,54,3.4,IT,Intern,2022-01-01,31328,4.295890410958904,High,2022
+Stephanie Fisher,29,Female,9,32,87,3.5,HR,Junior Developer,2019-01-01,50051,7.298630136986302,Low,2019
+Jeremy Miller,26,Male,7,45,28,2.8,IT,Junior Developer,2021-01-01,46612,5.295890410958904,Low,2021
+Daniel Pierce,22,Male,3,36,77,1.6,Finance,Intern,2021-01-01,32992,5.295890410958904,Low,2021
+Michael Hernandez,36,Female,23,96,50,3.4,Marketing,Manager,2005-01-01,104216,21.306849315068494,High,2005
+Victor Gutierrez,43,Male,10,86,71,2.0,IT,Team Lead,2014-01-01,104341,12.301369863013699,High,2014

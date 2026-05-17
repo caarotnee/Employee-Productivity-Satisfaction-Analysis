@@ -1,0 +1,7 @@
+Tổng nhân sự: Headcount = COUNTROWS('Hr_Dashboard_Data_Cleaned')
+
+Hiệu suất TB: Avg Productivity = AVERAGE('Hr_Dashboard_Data_Cleaned'[Productivity (%)]) / 100 (Định dạng kiểu % ở tab Measure Tools).
+
+Hài lòng TB: Avg Satisfaction = AVERAGE('Hr_Dashboard_Data_Cleaned'[Satisfaction Rate (%)]) / 100 (Định dạng kiểu %).
+
+Lương TB: Avg Salary = AVERAGE('Hr_Dashboard_Data_Cleaned'[Salary])
